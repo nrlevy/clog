@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mapping Activity
+title: Day Zero
 ---
 
 {{ page.title }}
