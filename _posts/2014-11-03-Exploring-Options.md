@@ -15,6 +15,8 @@ This feels like a different problem than I’ve faced before. Generally speaking
 This idea led me to think about what exactly I find most frustrating when it comes to info graphics.  When it comes to maps, my biggest issue stems from a fundamental misunderstanding of what is being represented. Often, this stems from a poor legend, or possibly no legend at all. When it comes to other types of info graphics, a similar issue is a lack of context. Often, I find that the numbers, locations, or subjects are splashed on to a lovely illustration without any kind of direction or scale. My immediate assumption when I see that is I am being misled. I think there is an inherent link between a dirth of information and a lack of trust. 
 
 
+
+
 PROJECT IDEAS:
 
 1) Something to do with time-travel. 
