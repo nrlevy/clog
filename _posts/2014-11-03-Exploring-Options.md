@@ -23,12 +23,15 @@ PROJECT IDEAS:
 
 1) Something to do with time-travel. 
 	I love time-travel as a concept and my favorite movie is "Back to the Future", is there something there? I like the idea of a timeline with infinite tangents based on 'what could have been'.
+	[How Time Travel Works](http://science.howstuffworks.com/science-vs-myth/everyday-myths/time-travel.htm)
 
 2) The life of a product.
 	Perhaps a map of how a product is made and used? But hopefully, a very unique product with an interesting life-cycle. Something that incorporates both location and motion.
+	[Making a T-shirt](http://apps.npr.org/tshirt/#/title)
 
 3) The map of James Bond
 	where has 007 been? where has he thwarted enemies? where has he made love? how to they all intertwine. 
+	[The World of 007](http://www.007.com/)
 
 
 Do all of my ideas blow?
