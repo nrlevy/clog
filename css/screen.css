@@ -17,7 +17,7 @@ html, body {
 
 body {
   background-color: #e3f9fb;
-  background-image: url("triangle background.png");
+  background-image: url(/clog/images/"triangle background.png");
   font: 13.34px helvetica, arial, clean, sans-serif;
   *font-size: small;
   text-align: center;
