@@ -37,5 +37,5 @@ PROJECT IDEAS:
 Do all of my ideas blow?
 
 
-![]({{ site.url }}/clog/images/womp.jpg)
+![]({{ site.url }}/clog/images/womp)
 
