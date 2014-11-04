@@ -87,13 +87,13 @@ ul.posts {
 }
 
 .title {
-  color: #304CA1;
+  color: #a00;
   font-weight: bold;
   margin-bottom: 2em;
 }
 
   .site .title a {
-    color: #a00;
+    color: #304CA1;
     text-decoration: none;
   }
 
