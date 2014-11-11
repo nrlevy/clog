@@ -18,3 +18,5 @@ I have never, in my life, been cat-called more than in the city of Baltimore, an
 The worst thing about these invasions is that any reaction at all seems to just encourage these strangers. It doesn't matter how revolted I look, it seems to egg them on. Once I had the courage to snap right back with "Don't do that, women don't like that." All I got in return was laughs and more snide remarks about how he "knows was girls like."  It's so damn frustrating. 
 
 So in the end, I think I might end up with 2 separate maps that describe 2 very different things. One that is more theoretical, a map of time-travel, and one that is much more tangible, a map of cat-calling. I just hope I can get it all done in time (ha, sorry, couldn't help it).
+
+As for research and ideation, I'm not even sure how to start. I've signed up for code academy in order to try to get a handle on how my maps are supposed to work from a technical stand point. I'm not exactly sure how I'm supposed to ideate for a map? Am I just supposed to be sketching out what I want my map to look like? 
