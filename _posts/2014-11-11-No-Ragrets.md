@@ -8,9 +8,7 @@ title: No Ragrets
 
 <p class="meta">
 
-![]({{ site.url }}/clog/images/norag.jpg)
-<br>
-<br>
+
 The other day I was hanging out with a classmate and an idea struck me. How could I have not thought of it before? This class asks us to make a map for Pete's sake! (on a side note, I've always found that to be a really weird phrase, "for Pete's sake," do I not get it because I’m Jewish?) The idea that I should've proposed last Tuesday was a map of all of the locations at which I've been cat-called since moving to DC/Baltimore. 
 
 I have never, in my life, been cat-called more than in the city of Baltimore, and I don't even live here full time. I'm starting to wonder if it has something to do with the culture of the city itself. I have noticed that strangers are much more friendly here than in other large cities, but does that also translate into over-stepping boundaries? Invasions of personal space? 
@@ -20,3 +18,7 @@ The worst thing about these invasions is that any reaction at all seems to just 
 So in the end, I think I might end up with 2 separate maps that describe 2 very different things. One that is more theoretical, a map of time-travel, and one that is much more tangible, a map of cat-calling. I just hope I can get it all done in time (ha, sorry, couldn't help it).
 
 As for research and ideation, I'm not even sure how to start. I've signed up for code academy in order to try to get a handle on how my maps are supposed to work from a technical stand point. I'm not exactly sure how I'm supposed to ideate for a map? Am I just supposed to be sketching out what I want my map to look like? 
+<br>
+<br>
+![]({{ site.url }}/clog/images/norag.jpg)
+
