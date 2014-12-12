@@ -1,6 +1,6 @@
 ---
 layout: blank
-title: THIS IS NOT A TEST
+title: THIS-IS-NOT-A-TEST
 ---
 
 {{ page.title }}
