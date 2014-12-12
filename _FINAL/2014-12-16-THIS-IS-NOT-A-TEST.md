@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blank
 title: THIS IS NOT A TEST
 ---
 
