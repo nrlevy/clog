@@ -6,31 +6,48 @@ title: Final Project in Progress
 {{ page.title }}
 ================
 
-<@-moz-keyframes blink {0%{opacity:1;} 50%{opacity:0;} 100%{opacity:1;}} /* Firefox */
-@-webkit-keyframes blink {0%{opacity:1;} 50%{opacity:0;} 100%{opacity:1;}} /* Webkit */
-@-ms-keyframes blink {0%{opacity:1;} 50%{opacity:0;} 100%{opacity:1;}} /* IE */
-@keyframes blink {0%{opacity:1;} 50%{opacity:0;} 100%{opacity:1;}} /* Opera and prob css3 final iteration */
-img {
-border:1px solid #000;
--moz-transition:all 1s ease-in-out;
--webkit-transition:all 1s ease-in-out;
--o-transition:all 1s ease-in-out;
--ms-transition:all 1s ease-in-out;
-transition:all 1s ease-in-out;
-/* order: name, direction, duration, iteration-count, timing-function */   
--moz-animation:blink normal 2s infinite ease-in-out; /* Firefox */
--webkit-animation:blink normal 2s infinite ease-in-out; /* Webkit */
--ms-animation:blink normal 2s infinite ease-in-out; /* IE */
-animation:blink normal 2s infinite ease-in-out; /* Opera and prob css3 final iteration */
-}&#8203;
-
-img {
-    animation: 2s ease-in-out 0s normal none infinite blink;
-    border: 1px solid #000000;
-    transition: all 1s ease-in-out 0s;
+* {
+  margin: 0;
+  padding: 0;
 }
 
-img.abc {
-    animation: none;
-    transition: none;
+html, body {
+  height: 100%;
+}
+
+body {
+  background-color: #000000;
+  background-image: url(../images/triangle-background3.png);
+  font: 13.34px helvetica, arial, clean, sans-serif;
+  *font-size: small;
+  text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-size: 100%;
+}
+
+h1 {
+  margin-bottom: 1em;
+}
+
+p {
+  margin: 1em 0;
+}
+
+a {
+  color: #00a;
+}
+
+a:hover {
+  color: black;
+}
+
+a:visited {
+  color: #a0a;
+}
+
+table {
+  font-size: inherit;
+  font: 100%;
 }
