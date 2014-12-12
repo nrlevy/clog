@@ -5,4 +5,5 @@ title: Final Project in Progress
 
 {{ page.title }}
 ================
-<blink>just text test</blink>
+
+<img src="![]({{ site.url }}/clog/images/barbie.jpeg)" class="blink" />
