@@ -26,14 +26,12 @@ title: N R Levy
   </ul>
 
   <h1>FINAL PROJECT</h1>
-  <ul class="posts">
-    <li><span>Please Step in to the Time Tunnel</span> &raquo; <a href="https://www.mapbox.com/mapbox-studio/#darwin">Mapbox Studio</a></li>
     <ul class="posts">
     {% for post in site.FINAL %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.url }}/clog{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
-  </ul>
+  </ul
 
 
 <!--
