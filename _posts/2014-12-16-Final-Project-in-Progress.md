@@ -6,4 +6,9 @@ title: Final Project in Progress
 {{ page.title }}
 ================
 
-<img src="/clog/images/barbie.jpeg" class="blink" />
+<div>
+<img width="350px" height="237px" alt="Don't Blink" src="http://www.websitecodetutorials.com/code/images/dont-blink.jpg">  
+    <img class="abc" width="350px" height="237px" alt="Don't Blink" src="http://www.websitecodetutorials.com/code/images/dont-blink.jpg">   
+        <img width="350px" height="237px" alt="Don't Blink" src="http://www.websitecodetutorials.com/code/images/dont-blink.jpg">   
+            <img width="350px" height="237px" alt="Don't Blink" src="http://www.websitecodetutorials.com/code/images/dont-blink.jpg">   
+<div>
