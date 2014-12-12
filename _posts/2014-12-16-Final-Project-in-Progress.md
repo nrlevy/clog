@@ -6,4 +6,4 @@ title: Final Project in Progress
 {{ page.title }}
 ================
 
-<img src="![]({{ site.url }}/clog/images/barbie.jpeg)" class="blink" />
+<img src="/clog/images/barbie.jpeg" class="blink" />
