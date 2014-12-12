@@ -12,8 +12,8 @@ title: N R Levy
   </ul>
 
  <h1>FINAL PROJECT</h1>
-  <ul class="posts/final">
-    {% for post in site.final %}
+  <ul class="posts">
+    {% for post in site.posts/final %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.url }}/clog{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
    
