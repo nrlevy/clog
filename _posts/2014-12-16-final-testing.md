@@ -10,5 +10,5 @@ title: testing
 testing gif out
 
 <br>
-![]({{ site.url }}/clog/images/gif.jpg)
+![]({{ site.url }}/clog/images/giffy.jpg)
 
