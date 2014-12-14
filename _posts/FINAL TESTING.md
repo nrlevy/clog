@@ -1,6 +1,6 @@
 ---
 layout: blank
-title: Programmer Barbie
+title: testing
 ---
 
 {{ page.title }}
@@ -10,5 +10,5 @@ title: Programmer Barbie
 testing gif out
 
 <br>
-![]({{ site.url }}/clog/images/)
+![]({{ site.url }}/clog/images/gif.gif)
 
