@@ -10,5 +10,5 @@ title: testing
 testing gif out
 
 <br>
-![]({{ site.url }}/clog/images/gif2.jpg)
+<a href="http://imgur.com/tlQGOI3"><img src="http://i.imgur.com/tlQGOI3.gif" title="source: imgur.com" /></a>
 
