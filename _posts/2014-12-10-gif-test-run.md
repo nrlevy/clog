@@ -1,6 +1,6 @@
 ---
 layout: post
-title: testing
+title: Gif Test Run
 ---
 
 {{ page.title }}
