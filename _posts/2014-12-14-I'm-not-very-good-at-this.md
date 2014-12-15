@@ -17,12 +17,12 @@ The way I see it, the "traveler" will take a tablet into the "portal" as the gif
 ![]({{ site.url }}/clog/images/a.jpeg)
 ![]({{ site.url }}/clog/images/b.jpeg)
 ![]({{ site.url }}/clog/images/c.jpeg)
-![]({{ site.url }}/clog/images/d.jpeg)
+![]({{ site.url }}/clog/images/d.jpeg)<img id="image_canv" src="/image.png" class="rotate90">
 ![]({{ site.url }}/clog/images/e.jpeg)
-![]({{ site.url }}/clog/images/f.jpeg)
-![]({{ site.url }}/clog/images/g.jpeg)
-![]({{ site.url }}/clog/images/h.jpeg)
-![]({{ site.url }}/clog/images/i.jpeg)
-![]({{ site.url }}/clog/images/j.jpeg)
+![]({{ site.url }}/clog/images/f.jpeg)<img id="image_canv" src="/image.png" class="rotate90">
+![]({{ site.url }}/clog/images/g.jpeg)<img id="image_canv" src="/image.png" class="rotate90">
+![]({{ site.url }}/clog/images/h.jpeg)<img id="image_canv" src="/image.png" class="rotate90">
+![]({{ site.url }}/clog/images/i.jpeg)<img id="image_canv" src="/image.png" class="rotate90">
+![]({{ site.url }}/clog/images/j.jpeg)<img id="image_canv" src="/image.png" class="rotate90">
 
 
