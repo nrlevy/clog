@@ -8,7 +8,7 @@ title: I'm not very good at this
 
 <p class="meta">
 I am building a stucture. So we started hoarding carboard boxes in our apartment.
-![]({{ site.url }}/clog/images/z.jpeg)
+![]({{ site.url }}/clog/images/z.jpeg)<img id="image_canv" src="/image.png" class="rotate90">
 
 I sketched what I wanted the "portal" to look like, and then quickly realized that it is not going to be very pretty. I'm also worried that cardboard may not have been the best choice. I think I might wrap the structure itself in a sheet to give it somekind of elegance. Is that even elegance? I wouldn't generally call Ikea king-sized sheets elegant, but I guess they're still more elegant than cardboard, right? What I'm hoping is that the darkness within the structure will be lit by the blinking of the gif I've created. 
 
